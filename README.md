@@ -23,7 +23,7 @@ Make/implement
 * DELETE /grocery-lists/items/{itemId}   to remove an item from a grocery list
 * DELETE /grocery-lists to delete a grocery list
 * If you need to create additional enpoints you are welcome to
-## Part 4 Implement your Presentation Layer *React*: 35 Points  
+## Part 4 Implement your Presentation Layer *Angular*: 35 Points  
 Create a grocery list component with a table that contains all items in the grocery list with a form for adding a new item, there should also be an option next to each item that allows you to remove items. (20 of the poitns).  
 
 Create a grocery lists component with a table that contains all grocery lists, when you click a grocery list it should take you to the component that displays that individual grocery list. (15 of the points)
